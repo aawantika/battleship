@@ -1,4 +1,4 @@
-battleship
+Battleship
 ==========
 A simple Battleship game using 2D arrays in Java.
 
@@ -9,4 +9,5 @@ To Run
 Run in Terminal
 
 Compile the Java file: javac sourceCode/Battleship.java
+
 Run the Java file: java sourceCode/Battleship
